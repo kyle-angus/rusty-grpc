@@ -17,6 +17,6 @@ cargo run
 
 ## Health Checks
 
-[grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) must be installed to run `health_check.sh`
+[grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) must be installed to run `health_probe.sh`
 
 
